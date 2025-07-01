@@ -1,16 +1,11 @@
-# trab02flutter
+# 🌍 App Flutter - Lista de Países
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter que lista países com nome, capital, bandeira e outros dados.
 
-## Getting Started
+### ✅ Testes Automatizados
 
-This project is a starting point for a Flutter application.
+Foram implementados os seguintes testes:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Verifica se o nome do país aparece.
+- Verifica se ao clicar no país, os dados são exibidos.
+- Verifica se a bandeira é carregada corretamente.
